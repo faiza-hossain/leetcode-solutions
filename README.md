@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -109,4 +110,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/faiza-hossain/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
