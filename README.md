@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/faiza-hossain/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/faiza-hossain/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/faiza-hossain/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/faiza-hossain/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/faiza-hossain/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/faiza-hossain/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
